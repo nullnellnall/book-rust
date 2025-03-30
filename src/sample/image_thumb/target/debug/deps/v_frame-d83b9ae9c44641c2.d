@@ -1,0 +1,11 @@
+C:\Users\siun\OneDrive\project_source\book-rust\src\sample\image_thumb\target\debug\deps\libv_frame-d83b9ae9c44641c2.rmeta: C:\Users\siun\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\v_frame-0.3.8\src\lib.rs C:\Users\siun\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\v_frame-0.3.8\src\frame.rs C:\Users\siun\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\v_frame-0.3.8\src\math.rs C:\Users\siun\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\v_frame-0.3.8\src\pixel.rs C:\Users\siun\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\v_frame-0.3.8\src\plane.rs
+
+C:\Users\siun\OneDrive\project_source\book-rust\src\sample\image_thumb\target\debug\deps\libv_frame-d83b9ae9c44641c2.rlib: C:\Users\siun\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\v_frame-0.3.8\src\lib.rs C:\Users\siun\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\v_frame-0.3.8\src\frame.rs C:\Users\siun\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\v_frame-0.3.8\src\math.rs C:\Users\siun\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\v_frame-0.3.8\src\pixel.rs C:\Users\siun\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\v_frame-0.3.8\src\plane.rs
+
+C:\Users\siun\OneDrive\project_source\book-rust\src\sample\image_thumb\target\debug\deps\v_frame-d83b9ae9c44641c2.d: C:\Users\siun\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\v_frame-0.3.8\src\lib.rs C:\Users\siun\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\v_frame-0.3.8\src\frame.rs C:\Users\siun\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\v_frame-0.3.8\src\math.rs C:\Users\siun\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\v_frame-0.3.8\src\pixel.rs C:\Users\siun\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\v_frame-0.3.8\src\plane.rs
+
+C:\Users\siun\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\v_frame-0.3.8\src\lib.rs:
+C:\Users\siun\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\v_frame-0.3.8\src\frame.rs:
+C:\Users\siun\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\v_frame-0.3.8\src\math.rs:
+C:\Users\siun\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\v_frame-0.3.8\src\pixel.rs:
+C:\Users\siun\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\v_frame-0.3.8\src\plane.rs:
